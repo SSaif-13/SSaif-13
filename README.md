@@ -1,15 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sadat Saif
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==================================================================================================================================
 
-Computer Science Student at The University of Calgary
------------------------------------------------------
-
-My coding journey began in grade 10 when I developed a small arcade light game, sparking my fascination with programming and problem-solving. Since then, I've been dedicated to expanding my knowledge and honing my skills to create impactful and innovative solutions.
-
-* 🌍  I'm based in Calgary, AB
-* ✉️  You can contact me at [sadatsaif01@gmail.com](mailto:sadatsaif01@gmail.com)
-* 🧠  I'm learning Network Security, AI, and exploring the intersection of entrepreneurship and tech innovation
-* 🤝  I'm open to collaborating on creating innovative solutions using cutting-edge computer science
 
 ### Skills
 
